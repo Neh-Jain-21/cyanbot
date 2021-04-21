@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cyanbot/static/css/main.88877921.chunk.css",
-    "main.js": "/cyanbot/static/js/main.54d62b3b.chunk.js",
-    "main.js.map": "/cyanbot/static/js/main.54d62b3b.chunk.js.map",
+    "main.js": "/cyanbot/static/js/main.da18653b.chunk.js",
+    "main.js.map": "/cyanbot/static/js/main.da18653b.chunk.js.map",
     "runtime-main.js": "/cyanbot/static/js/runtime-main.04722056.js",
     "runtime-main.js.map": "/cyanbot/static/js/runtime-main.04722056.js.map",
     "static/css/2.74c02967.chunk.css": "/cyanbot/static/css/2.74c02967.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.74c02967.chunk.css",
     "static/js/2.e5a74add.chunk.js",
     "static/css/main.88877921.chunk.css",
-    "static/js/main.54d62b3b.chunk.js"
+    "static/js/main.da18653b.chunk.js"
   ]
 }
