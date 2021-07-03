@@ -1,26 +1,32 @@
 {
   "files": {
-    "main.css": "/cyanbot/static/css/main.88877921.chunk.css",
-    "main.js": "/cyanbot/static/js/main.ca6e0471.chunk.js",
-    "main.js.map": "/cyanbot/static/js/main.ca6e0471.chunk.js.map",
+    "main.css": "/cyanbot/static/css/main.95e11e09.chunk.css",
+    "main.js": "/cyanbot/static/js/main.bd6447d0.chunk.js",
+    "main.js.map": "/cyanbot/static/js/main.bd6447d0.chunk.js.map",
     "runtime-main.js": "/cyanbot/static/js/runtime-main.04722056.js",
     "runtime-main.js.map": "/cyanbot/static/js/runtime-main.04722056.js.map",
-    "static/css/2.afcd4ef9.chunk.css": "/cyanbot/static/css/2.afcd4ef9.chunk.css",
-    "static/js/2.6e9b9659.chunk.js": "/cyanbot/static/js/2.6e9b9659.chunk.js",
-    "static/js/2.6e9b9659.chunk.js.map": "/cyanbot/static/js/2.6e9b9659.chunk.js.map",
+    "static/css/2.be674a98.chunk.css": "/cyanbot/static/css/2.be674a98.chunk.css",
+    "static/js/2.b27f0401.chunk.js": "/cyanbot/static/js/2.b27f0401.chunk.js",
+    "static/js/2.b27f0401.chunk.js.map": "/cyanbot/static/js/2.b27f0401.chunk.js.map",
     "index.html": "/cyanbot/index.html",
-    "static/css/2.afcd4ef9.chunk.css.map": "/cyanbot/static/css/2.afcd4ef9.chunk.css.map",
-    "static/css/main.88877921.chunk.css.map": "/cyanbot/static/css/main.88877921.chunk.css.map",
-    "static/js/2.6e9b9659.chunk.js.LICENSE.txt": "/cyanbot/static/js/2.6e9b9659.chunk.js.LICENSE.txt",
+    "static/css/2.be674a98.chunk.css.map": "/cyanbot/static/css/2.be674a98.chunk.css.map",
+    "static/css/main.95e11e09.chunk.css.map": "/cyanbot/static/css/main.95e11e09.chunk.css.map",
+    "static/js/2.b27f0401.chunk.js.LICENSE.txt": "/cyanbot/static/js/2.b27f0401.chunk.js.LICENSE.txt",
+    "static/media/Hi.118510ff.png": "/cyanbot/static/media/Hi.118510ff.png",
     "static/media/about.4bc2a7ea.svg": "/cyanbot/static/media/about.4bc2a7ea.svg",
-    "static/media/bot.b3ba5999.png": "/cyanbot/static/media/bot.b3ba5999.png",
-    "static/media/growth.09c09327.svg": "/cyanbot/static/media/growth.09c09327.svg"
+    "static/media/custom commands.ca82dc22.png": "/cyanbot/static/media/custom commands.ca82dc22.png",
+    "static/media/freedom.ebe84e90.png": "/cyanbot/static/media/freedom.ebe84e90.png",
+    "static/media/growth.09c09327.svg": "/cyanbot/static/media/growth.09c09327.svg",
+    "static/media/integrate.cea5e2e0.png": "/cyanbot/static/media/integrate.cea5e2e0.png",
+    "static/media/levels.7c61ffc3.png": "/cyanbot/static/media/levels.7c61ffc3.png",
+    "static/media/logo.7cca8b4a.png": "/cyanbot/static/media/logo.7cca8b4a.png",
+    "static/media/moderation.76c9d500.png": "/cyanbot/static/media/moderation.76c9d500.png"
   },
   "entrypoints": [
     "static/js/runtime-main.04722056.js",
-    "static/css/2.afcd4ef9.chunk.css",
-    "static/js/2.6e9b9659.chunk.js",
-    "static/css/main.88877921.chunk.css",
-    "static/js/main.ca6e0471.chunk.js"
+    "static/css/2.be674a98.chunk.css",
+    "static/js/2.b27f0401.chunk.js",
+    "static/css/main.95e11e09.chunk.css",
+    "static/js/main.bd6447d0.chunk.js"
   ]
 }
